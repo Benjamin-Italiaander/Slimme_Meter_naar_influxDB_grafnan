@@ -1,4 +1,6 @@
 
+
+#I need to cleanup a bit this imports
 import serial
 import sys
 import datetime
